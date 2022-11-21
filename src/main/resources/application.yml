@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://steventran1983:Khongbiet99@cluster0.qqiahy4.mongodb.net/?retryWrites=true&w=majority
+      database: Employee
